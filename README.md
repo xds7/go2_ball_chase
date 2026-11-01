@@ -36,5 +36,3 @@ Isaac Lab のルートディレクトリで実行します。`/path/to/go2_ball_
 - `train.py`: 学習・再生の起動
 - `go2_ball_task/ball_task.py`: 環境、観測、報酬
 - `go2_ball_task/go2_ball_ppo.py`: 上位 PPO の設定
-# go2_ball_chase
-# go2_ball_chase
